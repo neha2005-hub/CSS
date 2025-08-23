@@ -1,0 +1,36 @@
+body {
+    background-color: #2e2e2e;
+    padding: 30px;
+}
+
+.progress-container {
+    width: 800px;
+    margin: 10px;
+    background-color: #444;
+    border-radius: 30px;
+    height: 50px;
+    padding: 5px;
+}
+
+.progress {
+    height: 80%;
+    border-radius: 20px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    margin: 5px;
+}
+
+.green {
+    background-color: #4CAF50;
+    width: 20%;
+}
+
+.orange {
+    background-color: #FFA500;
+    width: 35%;
+}
+
+.red {
+    background-color: #FF9999;
+    width: 90%;
+}
